@@ -60,7 +60,6 @@ namespace exp7
 ~~~
 
 ##Output:
-![Uploading image.png…]()
-
+![](mm.png)
 ##Result:
 C# program to reverse a number using recursive function is executed successfully.
